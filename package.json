@@ -1,0 +1,19 @@
+{
+  "name": "targeted-wordlist-generator",
+  "version": "1.0.0",
+  "description": "Generating better quality wordlists for pentesting",
+  "main": "targeted-wordlist-generator.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koga73/targeted-wordlist-generator.git"
+  },
+  "author": "AJ Savino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koga73/targeted-wordlist-generator/issues"
+  },
+  "homepage": "https://github.com/koga73/targeted-wordlist-generator#readme"
+}
